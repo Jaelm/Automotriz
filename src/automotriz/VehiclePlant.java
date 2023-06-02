@@ -27,7 +27,7 @@ public class VehiclePlant {
         this.warehouse = new Warehouse(20, 30,10,10,01);
         this.mutex = new Semaphore(1);
         
-       // initializeWorkers();
+       // initializeWorkers();k
         
         
     }
